@@ -16,7 +16,11 @@ Please refer to the following discussion on Stardot for further details: [https:
 
 ![177x Schematic](https://github.com/user-attachments/assets/7ddbf62d-243d-4113-b2b4-cc790bba0963)
 
-![177x_3D_01](https://github.com/user-attachments/assets/4a546bc7-edb8-4472-95f5-b4325bbcb195)   ![177x_3D_02](https://github.com/user-attachments/assets/5ba80cdc-a53a-4033-94c3-40881235967b)
+![177x_3D_01](https://github.com/user-attachments/assets/4a546bc7-edb8-4472-95f5-b4325bbcb195) ![177x_3D_02](https://github.com/user-attachments/assets/5ba80cdc-a53a-4033-94c3-40881235967b)
+
+![177x_3D_04](https://github.com/user-attachments/assets/fc42ba71-0d4c-41e0-826b-01737017b947) ![177x_3D_03](https://github.com/user-attachments/assets/a65dd2a2-128f-43bc-b538-d1a1723253a9)
+
+
 
 ## Author
 
